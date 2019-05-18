@@ -4,9 +4,41 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>whatever</groupId>
+    <groupId>com.vaclavdedik</groupId>
     <artifactId>whatever</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <name>whatever</name>
+    <description>Library that lets you write your code without worrying about consequences!</description>
+    <url>https://github.com/VaclavDedik/whatever</url>
+    <inceptionYear>2019</inceptionYear>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>vdedik</id>
+            <name>Vaclav Dedik</name>
+            <email>vaclav.dedik@gmail.com</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/VaclavDedik/whatever.git</connection>
+        <developerConnection>scm:git:ssh://github.com:VaclavDedik/whatever.git</developerConnection>
+        <url>https://github.com/VaclavDedik/whatever</url>
+        <tag>HEAD</tag>
+    </scm>
+
+    <issueManagement>
+        <system>github</system>
+        <url>https://github.com/VaclavDedik/whatever/issues</url>
+    </issueManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
