@@ -2,6 +2,8 @@
 
 Library that lets you deploy untested code without worrying about consequences!
 
+![https://i.imgflip.com/31lzxn.jpg](https://i.imgflip.com/31lzxn.jpg)
+
 Have you ever wanted to add some code to your project that you do not care much about? Be it for testing, debugging, or maybe you are just lazy and unwilling to test some piece of code, **would it not be nice if you could do all of those in a safe manner?**
 
 Look no further, this library allows you to do exactly that.
