@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>whatever</name>
-    <description>Library that lets you write your code without worrying about consequences!</description>
+    <description>Library that lets you deploy untested code without worrying about consequences!</description>
     <url>https://github.com/VaclavDedik/whatever</url>
     <inceptionYear>2019</inceptionYear>
 
